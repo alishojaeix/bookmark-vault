@@ -1,7 +1,7 @@
 # 🔖 Bookmark Vault
 
 <p align="center">
-  <img src="./docs/bookmark-vault.png.webp" alt="Bookmark Vault" width="900">
+  <img src="./docs/bookmark-vault.png.webp" alt="Bookmark Vault" width="300">
 </p>
 
 <p align="center">
