@@ -1,0 +1,23 @@
+{
+  "name": "bookmark-spec",
+  "version": "1.0.0",
+  "description": "Bookmark app with BunJS, TypeScript, and SQLite",
+  "scripts": {
+    "dev": "bun --watch src/index.ts",
+    "start": "bun run src/index.ts",
+    "db:seed": "bun run src/scripts/seed.ts",
+    "db:migrate": "bun run src/db/init.ts",
+    "db:reset": "rm -f bookmarks.db && bun run db:seed"
+  },
+  "type": "module",
+  "dependencies": {
+    "better-sqlite3": "latest"
+  },
+  "optionalDependencies": {
+    "better-sqlite3": "latest"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.0.1",
+    "typescript": "^5.3.3"
+  }
+}
