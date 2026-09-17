@@ -51,3 +51,8 @@ Thumbs.db
 *.sublime-workspacebookmarks.sqlite
 bookmarks.sqlite-shm
 bookmarks.sqlite-wal
+
+# Local SQLite database
+bookmarks.sqlite
+bookmarks.sqlite-shm
+bookmarks.sqlite-wal
