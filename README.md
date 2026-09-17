@@ -1,4 +1,6 @@
+<img width="1080" height="1080" alt="spec-kit-logo" src="https://github.com/user-attachments/assets/2e15b0bb-998b-4a83-b726-73e812b501b0" />
 # 🔖 Bookmark Vault
+
 
 <p align="center">
   <strong>A developer-focused bookmark management system built for the Spec-Driven Development era.</strong>
